@@ -1,4 +1,8 @@
+WORK IN PROGRESS ⚠️
+
 # Coin-Flip-F-H
+https://apkov.github.io/Coin-Flip-F-H/
+
 This project recreates the coin-flip mechanic from the Fear & Hunger series. It is a simple web page where you flip a coin using the original coin artwork and sound effects from the game. The result is always a straight 50/50 between heads and tails.
 
 ## Context in the Original Game
