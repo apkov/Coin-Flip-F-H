@@ -1,4 +1,4 @@
-WORK IN PROGRESS ⚠️
+⚠️ WORK IN PROGRESS ⚠️
 
 # Coin-Flip-F-H
 https://apkov.github.io/Coin-Flip-F-H/
@@ -11,5 +11,13 @@ In Fear & Hunger, many actions are resolved through a simple heads-or-tails chec
 ## What This Project Does
 This page recreates that mechanic in a simple form. You choose heads or tails, the coin flips, and you get the result. No tricks, no modifiers, just a clean 50/50 chance inspired by the original system.
 
-### Source  
-https://fearandhunger.wiki.gg/wiki/Coin_flip
+Wiki: https://fearandhunger.wiki.gg/wiki/Coin_flip
+
+## Assets
+Coin images in `assets/` are from Fear & Hunger by Miro (https://x.com/happy_paintings?lang=en).  
+I do **not** claim ownership.  
+If the original creator wants them removed, please contact me and I will take them down.
+
+## License
+The **code in this repository** (HTML, CSS, JavaScript) is licensed under the [MIT License](LICENSE).  
+Assets from the original game are **not included under this license** and remain the property of the original creator.
